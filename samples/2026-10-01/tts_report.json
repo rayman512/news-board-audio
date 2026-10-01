@@ -1,0 +1,26 @@
+{
+  "edge": {
+    "ok": false,
+    "error": "ClientConnectorCertificateError: Cannot connect to host speech.platform.bing.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1016)')]",
+    "seconds": 0.2
+  },
+  "piper": {
+    "ok": false,
+    "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "seconds": 0.4
+  },
+  "kokoro": {
+    "ok": true,
+    "files": [
+      {
+        "name": "kokoro-am_michael.mp3",
+        "bytes": 403968
+      },
+      {
+        "name": "kokoro-af_heart.mp3",
+        "bytes": 366144
+      }
+    ],
+    "seconds": 172.3
+  }
+}
