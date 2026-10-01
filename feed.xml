@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News Board</title>
+    <link>https://rayman512.github.io/news-board-audio/</link>
+    <atom:link href="https://rayman512.github.io/news-board-audio/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A personal daily news briefing.</description>
+    <language>en</language>
+    <itunes:author>News Board</itunes:author>
+    <itunes:image href="https://rayman512.github.io/news-board-audio/cover.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Thu, 01 Oct 2026 08:29:22 +0000</lastBuildDate>
+    <item>
+      <title>Thursday 1 October: voice test</title>
+      <description>Test episode for News Board: a short sample briefing.</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/samples/laptop/edge-en-US-AndrewNeural.mp3" length="285984" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-test-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 03:00:00 +0000</pubDate>
+      <itunes:duration>48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pick: Odd Lots: Why Building a Crosswalk in LA Is Kafkaesque</title>
+      <description>Today's listen, streamed from the publisher.</description>
+      <enclosure url="https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7a3568d9-8263-4e3a-8f8f-b4d00139959f/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83" length="26234982" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-pick-1000791983369</guid>
+      <pubDate>Thu, 01 Oct 2026 02:59:00 +0000</pubDate>
+      <itunes:duration>1318</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
