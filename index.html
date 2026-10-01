@@ -4,9 +4,67 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>News Board audio</title>
+<title>News Board tests</title>
+<style>
+:root { --bg:#f6f7f9; --card:#fff; --text:#1b2330; --sub:#5d6878; --line:#dde2ea; --accent:#2f5da8; }
+@media (prefers-color-scheme: dark) { :root { --bg:#11161f; --card:#1a2130; --text:#e6ebf2; --sub:#9aa6b8; --line:#2b3446; --accent:#7ea6e6; } }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+main { max-width:640px; margin:0 auto; padding:20px 16px 48px; }
+h1 { font-size:1.5rem; margin:0 0 4px; }
+h2 { font-size:1.1rem; margin:28px 0 8px; }
+p { margin:6px 0; }
+.sub { color:var(--sub); font-size:.9rem; font-weight:400; }
+section { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; margin-top:14px; }
+ul { list-style:none; padding:0; margin:8px 0 0; }
+li { padding:10px 0; border-top:1px solid var(--line); }
+li:first-child { border-top:0; }
+.label { font-weight:600; margin-bottom:6px; }
+audio { width:100%; }
+ol { padding-left:20px; margin:8px 0; }
+code { display:block; overflow-wrap:anywhere; background:var(--bg); border:1px solid var(--line); border-radius:8px; padding:8px 10px; font-size:.9rem; }
+.buttons { display:flex; flex-wrap:wrap; gap:8px; }
+.btn { display:inline-block; padding:8px 14px; border-radius:999px; text-decoration:none; font-weight:600; font-size:.95rem; border:1px solid var(--line); color:var(--text); }
+.btn.spotify { background:#1db954; border-color:#1db954; color:#08130b; }
+.btn.ytm { background:#e52d27; border-color:#e52d27; color:#fff; }
+button { margin-top:8px; padding:8px 14px; border-radius:999px; border:1px solid var(--accent); background:transparent; color:var(--accent); font-weight:600; font-size:.95rem; }
+</style>
 </head>
 <body>
-<p>Audio for a personal news digest.</p>
+<main>
+<h1>News Board: Phase 0 tests</h1>
+<p class="sub">Three short tests on your phone. Nothing here is the real board yet.</p>
+
+<section>
+<h2>1. Pick a voice</h2>
+<p>Every voice reads the same short test briefing. Which one would you like every morning?</p>
+<ul><li><div class="label">Kokoro, Heart (US) <span class="sub">made in the cloud</span></div><audio controls preload="none" src="samples/2026-10-01/kokoro-af_heart.mp3"></audio></li><li><div class="label">Kokoro, Michael (US) <span class="sub">made in the cloud</span></div><audio controls preload="none" src="samples/2026-10-01/kokoro-am_michael.mp3"></audio></li><li><div class="label">Edge, Sonia (UK) <span class="sub">made on the laptop</span></div><audio controls preload="none" src="samples/laptop/edge-en-GB-SoniaNeural.mp3"></audio></li><li><div class="label">Edge, Andrew (US) <span class="sub">made on the laptop</span></div><audio controls preload="none" src="samples/laptop/edge-en-US-AndrewNeural.mp3"></audio></li><li><div class="label">Piper, Ryan (US) <span class="sub">made on the laptop</span></div><audio controls preload="none" src="samples/laptop/piper-en_US-ryan-high.mp3"></audio></li></ul>
+</section>
+
+<section>
+<h2>2. YouTube Music and the Nest Hub</h2>
+<p>Feed address:</p>
+<code id="feed">https://rayman512.github.io/news-board-audio/feed.xml</code>
+<button type="button" onclick="navigator.clipboard.writeText(document.getElementById('feed').textContent).then(()=>this.textContent='Copied')">Copy address</button>
+<ol>
+<li>In the YouTube Music app: Library, then Podcasts, then Add podcast (bottom right), then Add a podcast by RSS feed. Paste the address and tap Add.</li>
+<li>Play the episode "Thursday 1 October: voice test" on the phone.</li>
+<li>Cast it to the Nest Hub (cast icon at the top of the player).</li>
+<li>When it ends, does the Odd Lots episode start by itself?</li>
+<li>Say "Hey Google, play News Board on YouTube Music" to the Hub.</li>
+</ol>
+</section>
+
+<section>
+<h2>3. Podcast pick links</h2>
+<p>Do these open the right episode in the app?</p>
+<ul><li><div class="label">Odd Lots (Bloomberg): Everything in Markets Is Now Moving Incredibly Fast <span class="sub">1 Oct 2026, 44 min</span></div><div class="buttons"><a class="btn spotify" href="https://open.spotify.com/episode/3ktyZpy1mrQeiy5ROjTB9U?utm_source=anthropic&amp;utm_medium=claude&amp;request_id=84578da4-3057-416a-a2fa-1127c74d3096">Open in Spotify</a><a class="btn ytm" href="https://music.youtube.com/search?q=Odd+Lots+Everything+in+Markets+Is+Now+Moving+Incredibly+Fast">Open in YouTube Music</a></div></li><li><div class="label">The AI Daily Brief: The Most Important New AI Tools from OpenAI DevDay <span class="sub">30 Sep 2026, 23 min</span></div><div class="buttons"><a class="btn spotify" href="https://open.spotify.com/episode/7pJnU3vR74xumvr3msLFu5?utm_source=anthropic&amp;utm_medium=claude&amp;request_id=229d876a-91b7-46d0-86c6-50548bb871a4">Open in Spotify</a><a class="btn ytm" href="https://music.youtube.com/search?q=The+AI+Daily+Brief+The+Most+Important+New+AI+Tools+from+OpenAI+DevDay">Open in YouTube Music</a></div></li></ul>
+</section>
+
+<section>
+<h2>4. Gemini on the Hub</h2>
+<p>In the Google Home app, is there a "Gemini for Home" entry under Settings? Then try "Hey Google, play the news" on the Hub.</p>
+</section>
+</main>
 </body>
 </html>
