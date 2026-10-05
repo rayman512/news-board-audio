@@ -11,14 +11,14 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 05 Oct 2026 08:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:23:42 +0000</lastBuildDate>
     <item>
       <title>Monday 5 October</title>
-      <description>Trump names intelligence chief Jay Clayton as White House AI czar · Anthropic commits $100 million to train 10,000 engineers who deploy Claude · OpenAI safety leader David Robinson quits, saying the company's culture is broken · Unsold homes in Oslo reach a record as sales slow sharply · Leaks from Norway's state budget point to more money for defence</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-05.mp3" length="1131072" type="audio/mpeg"/>
+      <description>Trump names intelligence chief Jay Clayton as new AI czar · OpenAI safety leader quits, warns company culture 'broken' · Anthropic commits $100 million to train 10,000 AI engineers · BT agrees deal to rescue broadband provider TalkTalk · Norway may need another rate hike as inflation stays above target</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-05.mp3" length="1298880" type="audio/mpeg"/>
       <guid isPermaLink="false">newsboard-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 08:08:45 +0000</pubDate>
-      <itunes:duration>141</itunes:duration>
+      <pubDate>Mon, 05 Oct 2026 08:23:42 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
