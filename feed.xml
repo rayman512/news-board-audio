@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 05 Oct 2026 08:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:28:39 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday 6 October</title>
+      <description>Pentagon stops using Anthropic's AI tools after supply-chain blacklist · Anthropic's report of a user's Claude diary leads to felony charge · OpenAI claims a solution to the Navier-Stokes Millennium Prize problem · Norway plans a temporary ban on smart glasses in public places · UK's average five-year mortgage rate hits 6% for first time in 3 years</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-06.mp3" length="1390848" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 03:28:39 +0000</pubDate>
+      <itunes:duration>174</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday 5 October</title>
       <description>Trump names intelligence chief Jay Clayton as new AI czar · OpenAI safety leader quits, warns company culture 'broken' · Anthropic commits $100 million to train 10,000 AI engineers · BT agrees deal to rescue broadband provider TalkTalk · Norway may need another rate hike as inflation stays above target</description>
