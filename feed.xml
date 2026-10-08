@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 07 Oct 2026 03:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:32:41 +0000</lastBuildDate>
+    <item>
+      <title>Thursday 8 October</title>
+      <description>OpenAI rolls out GPT-6 to everyone with a new Intelligent UI · Anthropic launches Claude Haiku 5.5, its new fast, low-cost model · Microsoft unveils new AI hardware, gives Copilot control of Windows · Samsung posts record profit as AI chip boom lifts earnings · Canada's Weston family buys UK pharmacy chain Boots for $8.9bn</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-08.mp3" length="1348800" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 03:32:41 +0000</pubDate>
+      <itunes:duration>169</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Wednesday 7 October</title>
       <description>Paramount completes $111bn Warner Bros Discovery merger · Finland orders Google to halt work on two data centres · Hackers obtain fraudulent TLS certificates for Google, others · Norway's government unveils its 2027 budget today · Google ends free access to Gemini Flash and Pro from 9 October</description>
