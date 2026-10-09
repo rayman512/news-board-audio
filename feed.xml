@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 08 Oct 2026 03:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:30:31 +0000</lastBuildDate>
+    <item>
+      <title>Friday 9 October</title>
+      <description>Anthropic bans abusive treatment of Claude in usage policy update · White House blocks Microsoft from a foreign worker hiring program · Oil prices jump 5% on Middle East tension and hurricane risk · Bank of England urges a credible budget as gilt yields surge · Google launches a universal Gemini agent that works across apps</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-09.mp3" length="1307520" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 03:30:31 +0000</pubDate>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday 8 October</title>
       <description>OpenAI rolls out GPT-6 to everyone with a new Intelligent UI · Anthropic launches Claude Haiku 5.5, its new fast, low-cost model · Microsoft unveils new AI hardware, gives Copilot control of Windows · Samsung posts record profit as AI chip boom lifts earnings · Canada's Weston family buys UK pharmacy chain Boots for $8.9bn</description>
