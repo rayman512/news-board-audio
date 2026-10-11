@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 10 Oct 2026 03:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:26:47 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 11 October</title>
+      <description>Anthropic cuts internet access for all internal AI evaluations · Microsoft CEO Nadella: assume AI models are compromised, build in an emergency brake · UK must not depend on foreign AI, says Alan Turing Institute head · Fed survey: US family income and wealth rose, but debt stress grew · Norway to take record 150-million-krone dividend from Bane Nor</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-11.mp3" length="1250688" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 03:26:47 +0000</pubDate>
+      <itunes:duration>156</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 10 October</title>
       <description>Trump announces Russian diesel deal, Zelensky calls it 'a gift to Putin' · Hent recommended for 2.2bn-kroner Fornebubanen contract · Cloudflare acquires Deno, the open-source JavaScript runtime · Anthropic AI gave Philadelphia police a fake tip on a murder case · OpenAI stands by firing of three AI safety researchers</description>
