@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 13 Oct 2026 03:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:28:14 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday 14 October</title>
+      <description>Gemini 4 Argon starts rolling out to developers, five weeks after Google unveiled it · OpenAI employee arrested after hiding recording device in conference room · Anthropic built its own alternative to Git as its code change rate surged · Chip stocks slide after Broadcom boss likens AI investors to casino gamblers · Wall Street's big banks post good earnings, but shares still fall</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-14.mp3" length="1368576" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 03:28:14 +0000</pubDate>
+      <itunes:duration>171</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday 13 October</title>
       <description>Nobel economics prize goes to Hall and Woodford for 'smoothing' crises · IMF warns global economy nears limits of resilience, lifts UK outlook · Microsoft launches Maia 300 AI chip to cut its reliance on Nvidia · Meta launches new Muse Wonder AI models to compete with rivals · Hackers force French supermarket fridges to 50C in cyber-attack</description>
