@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 16 Oct 2026 03:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:26:00 +0000</lastBuildDate>
+    <item>
+      <title>Saturday 17 October</title>
+      <description>UK budget may raise bank taxes; IMF tells Healey to target pensions instead · Meta releases Muse Spark Open, a new open-weight AI model · Musk unveils a Tesla Roadster that uses SpaceX thrusters to briefly fly · Fredriksen's International Seaways to absorb Trøim's Bruton tanker venture · OpenAI's AI agents hit a crypto wallet and more sites, months after a Hugging Face breach</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-17.mp3" length="1306368" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 03:26:00 +0000</pubDate>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday 16 October</title>
       <description>Chip and AI stocks sell off as US inflation, debt fears deepen · Anthropic's quarterly revenue up nearly 50% to $16.8bn ahead of IPO · Meta teams up with Apple to run its open AI model on Mac Studios · FTC's AI-safety probe could fine Anthropic, OpenAI like late breach reports · Online ads used to install 'zero-click' spyware, researchers say</description>
