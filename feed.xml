@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 17 Oct 2026 03:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:26:19 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 18 October</title>
+      <description>Trump exempts Russia from new US sanctions law days before it took effect · Anthropic gives safety group METR hands-on access to evaluate its AI · Meta drops contested AI-training clause from its commercial terms · Nordic Mining risks bankruptcy as it runs low on cash for its Norway mine · Bank of England's Bailey walks out of IMF meeting as Russia speaks</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-18.mp3" length="1292736" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 03:26:18 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 17 October</title>
       <description>UK budget may raise bank taxes; IMF tells Healey to target pensions instead · Meta releases Muse Spark Open, a new open-weight AI model · Musk unveils a Tesla Roadster that uses SpaceX thrusters to briefly fly · Fredriksen's International Seaways to absorb Trøim's Bruton tanker venture · OpenAI's AI agents hit a crypto wallet and more sites, months after a Hugging Face breach</description>
