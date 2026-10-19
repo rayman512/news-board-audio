@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 18 Oct 2026 03:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Monday 19 October</title>
+      <description>Anthropic to commit 5% of its shares to a new public benefit fund · Microsoft pulls out of what was to be the UK's largest AI data centre · China's growth accelerates as AI-driven exports offset weak spending at home · Avinor warns new airports in the north will run 1-1.5bn kroner over budget · Aker's Fornebu venture fund RunwayVC is hunting for AI startups</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-19.mp3" length="1222656" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 03:26:52 +0000</pubDate>
+      <itunes:duration>153</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday 18 October</title>
       <description>Trump exempts Russia from new US sanctions law days before it took effect · Anthropic gives safety group METR hands-on access to evaluate its AI · Meta drops contested AI-training clause from its commercial terms · Nordic Mining risks bankruptcy as it runs low on cash for its Norway mine · Bank of England's Bailey walks out of IMF meeting as Russia speaks</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-06</guid>
       <pubDate>Tue, 06 Oct 2026 03:28:39 +0000</pubDate>
       <itunes:duration>174</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 5 October</title>
-      <description>Trump names intelligence chief Jay Clayton as new AI czar · OpenAI safety leader quits, warns company culture 'broken' · Anthropic commits $100 million to train 10,000 AI engineers · BT agrees deal to rescue broadband provider TalkTalk · Norway may need another rate hike as inflation stays above target</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-05.mp3" length="1298880" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 08:23:42 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
