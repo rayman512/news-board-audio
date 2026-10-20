@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 19 Oct 2026 03:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:26:36 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday 20 October</title>
+      <description>Norwegian krone hits its strongest level against the euro in three and a half years · France hit by fresh bond sell-off after violent weekend protests · Aker's Nscale in talks for a second AI data-centre deal with Anthropic worth $45bn · A hacker's AI agents breached John Deere, SharkNinja and Cummins · Court filing ties Saudi government to ex-OpenAI engineer accused of spying</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-20.mp3" length="1356864" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 03:26:36 +0000</pubDate>
+      <itunes:duration>170</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday 19 October</title>
       <description>Anthropic to commit 5% of its shares to a new public benefit fund · Microsoft pulls out of what was to be the UK's largest AI data centre · China's growth accelerates as AI-driven exports offset weak spending at home · Avinor warns new airports in the north will run 1-1.5bn kroner over budget · Aker's Fornebu venture fund RunwayVC is hunting for AI startups</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-07</guid>
       <pubDate>Wed, 07 Oct 2026 03:33:55 +0000</pubDate>
       <itunes:duration>186</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tuesday 6 October</title>
-      <description>Pentagon stops using Anthropic's AI tools after supply-chain blacklist · Anthropic's report of a user's Claude diary leads to felony charge · OpenAI claims a solution to the Navier-Stokes Millennium Prize problem · Norway plans a temporary ban on smart glasses in public places · UK's average five-year mortgage rate hits 6% for first time in 3 years</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-06.mp3" length="1390848" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-06</guid>
-      <pubDate>Tue, 06 Oct 2026 03:28:39 +0000</pubDate>
-      <itunes:duration>174</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
