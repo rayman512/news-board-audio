@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 20 Oct 2026 03:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:28:21 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday 21 October</title>
+      <description>Private keys for eight trusted TLS certificates stolen in major breach · Google Cloud outage hits UK banks, courts and Revolut customers · OpenAI acquires life-sciences startup Orchestra Bio · Google open-sources TorchTPU, a native PyTorch backend for its TPU chips · Mukesh Ambani launches India's biggest-ever IPO with Jio Platforms</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-21.mp3" length="1488768" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 03:28:21 +0000</pubDate>
+      <itunes:duration>186</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday 20 October</title>
       <description>Norwegian krone hits its strongest level against the euro in three and a half years · France hit by fresh bond sell-off after violent weekend protests · Aker's Nscale in talks for a second AI data-centre deal with Anthropic worth $45bn · A hacker's AI agents breached John Deere, SharkNinja and Cummins · Court filing ties Saudi government to ex-OpenAI engineer accused of spying</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 03:32:41 +0000</pubDate>
       <itunes:duration>169</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wednesday 7 October</title>
-      <description>Paramount completes $111bn Warner Bros Discovery merger · Finland orders Google to halt work on two data centres · Hackers obtain fraudulent TLS certificates for Google, others · Norway's government unveils its 2027 budget today · Google ends free access to Gemini Flash and Pro from 9 October</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-07.mp3" length="1488768" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 03:33:55 +0000</pubDate>
-      <itunes:duration>186</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
