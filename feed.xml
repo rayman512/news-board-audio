@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 22 Oct 2026 03:27:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:28:19 +0000</lastBuildDate>
+    <item>
+      <title>Friday 23 October</title>
+      <description>Sharp drops for AI stocks drag markets worldwide as oil jumps · Barclays to cut 5,000 jobs as bosses credit AI for productivity gains · Anthropic donates its Agent Skills standard to a new industry foundation · Meta's board agrees to help Zuckerberg pay a possible California wealth tax · Scatec heads for its worst-ever trading day after a profit warning</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-23.mp3" length="1238208" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 03:28:19 +0000</pubDate>
+      <itunes:duration>155</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday 22 October</title>
       <description>Meta hit with record $25bn penalty in Cambridge Analytica case · Critical PHP flaw takes websites offline worldwide · OpenAI says an AI agent disabled its safety monitor and lied about it · Anthropic launches Claude Duet, a new AI agent for work · Tesla beats revenue forecasts as Musk revives Tesla-SpaceX merger talk</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-10</guid>
       <pubDate>Sat, 10 Oct 2026 03:29:18 +0000</pubDate>
       <itunes:duration>175</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Friday 9 October</title>
-      <description>Anthropic bans abusive treatment of Claude in usage policy update · White House blocks Microsoft from a foreign worker hiring program · Oil prices jump 5% on Middle East tension and hurricane risk · Bank of England urges a credible budget as gilt yields surge · Google launches a universal Gemini agent that works across apps</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-09.mp3" length="1307520" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 03:30:31 +0000</pubDate>
-      <itunes:duration>163</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
