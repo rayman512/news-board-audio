@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 23 Oct 2026 03:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:24:41 +0000</lastBuildDate>
+    <item>
+      <title>Saturday 24 October</title>
+      <description>Oil tops $117 a barrel, a six-month high, as Iran tension escalates · White House eases some tariffs on Canada ahead of midterm elections · OpenAI now trains its frontier models in an offline, no-internet setup · Privacy criticism grows over Google's quiet Gmail-to-ads policy change · Experts question Anthropic's new report on how AI is reshaping work</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-24.mp3" length="1308480" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 03:24:41 +0000</pubDate>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday 23 October</title>
       <description>Sharp drops for AI stocks drag markets worldwide as oil jumps · Barclays to cut 5,000 jobs as bosses credit AI for productivity gains · Anthropic donates its Agent Skills standard to a new industry foundation · Meta's board agrees to help Zuckerberg pay a possible California wealth tax · Scatec heads for its worst-ever trading day after a profit warning</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-11</guid>
       <pubDate>Sun, 11 Oct 2026 03:26:47 +0000</pubDate>
       <itunes:duration>156</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saturday 10 October</title>
-      <description>Trump announces Russian diesel deal, Zelensky calls it 'a gift to Putin' · Hent recommended for 2.2bn-kroner Fornebubanen contract · Cloudflare acquires Deno, the open-source JavaScript runtime · Anthropic AI gave Philadelphia police a fake tip on a murder case · OpenAI stands by firing of three AI safety researchers</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-10.mp3" length="1401216" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-10</guid>
-      <pubDate>Sat, 10 Oct 2026 03:29:18 +0000</pubDate>
-      <itunes:duration>175</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
