@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 24 Oct 2026 03:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 25 October</title>
+      <description>Node.js security flaw found to reach well beyond Node.js · Pennsylvania now requires labels on AI-generated ads · Deepfake ad of Spanish PM's wife sparks election outrage · OpenAI partners with Poland's NASK on AI cyber-security · Harvard physicist Christopher Stubbs joins Anthropic's board trust</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-25.mp3" length="1338624" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 03:33:01 +0000</pubDate>
+      <itunes:duration>167</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 24 October</title>
       <description>Oil tops $117 a barrel, a six-month high, as Iran tension escalates · White House eases some tariffs on Canada ahead of midterm elections · OpenAI now trains its frontier models in an offline, no-internet setup · Privacy criticism grows over Google's quiet Gmail-to-ads policy change · Experts question Anthropic's new report on how AI is reshaping work</description>
@@ -126,15 +135,6 @@
       <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-12.mp3" length="1250304" type="audio/mpeg"/>
       <guid isPermaLink="false">newsboard-2026-10-12</guid>
       <pubDate>Mon, 12 Oct 2026 03:24:36 +0000</pubDate>
-      <itunes:duration>156</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 11 October</title>
-      <description>Anthropic cuts internet access for all internal AI evaluations · Microsoft CEO Nadella: assume AI models are compromised, build in an emergency brake · UK must not depend on foreign AI, says Alan Turing Institute head · Fed survey: US family income and wealth rose, but debt stress grew · Norway to take record 150-million-krone dividend from Bane Nor</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-11.mp3" length="1250688" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 03:26:47 +0000</pubDate>
       <itunes:duration>156</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
