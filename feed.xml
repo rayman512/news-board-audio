@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 25 Oct 2026 03:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:34:33 +0000</lastBuildDate>
+    <item>
+      <title>Monday 26 October</title>
+      <description>Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models · City economists doubt UK interest rates will reach 4.75% by next summer · Fornebubanen: 70 consultants billed more than the PM's salary · UK Budget to add £1bn for social and affordable housing · Volkswagen to build $4bn Audi SUV factory in the US</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-26.mp3" length="1443456" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 03:34:33 +0000</pubDate>
+      <itunes:duration>180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday 25 October</title>
       <description>Node.js security flaw found to reach well beyond Node.js · Pennsylvania now requires labels on AI-generated ads · Deepfake ad of Spanish PM's wife sparks election outrage · OpenAI partners with Poland's NASK on AI cyber-security · Harvard physicist Christopher Stubbs joins Anthropic's board trust</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 03:29:28 +0000</pubDate>
       <itunes:duration>168</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 12 October</title>
-      <description>Anthropic commits $150 million to US Genesis Mission science push · Microsoft president says AI is less regulated than milk · UK minister says AI firms must raise safety efforts as cyber defences grow · IFS warns Iran war risk threatens UK's Budget plans · Trump's Russia diesel deal draws bipartisan backlash in Congress</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-12.mp3" length="1250304" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-12</guid>
-      <pubDate>Mon, 12 Oct 2026 03:24:36 +0000</pubDate>
-      <itunes:duration>156</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
