@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 27 Oct 2026 03:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:29:20 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday 28 October</title>
+      <description>DeepMind unveils Genie 4, a real-time AI world model with audio · OpenAI expands Oracle deal to bring business apps into ChatGPT · Boeing shares fall 11% on weak earnings as chip stocks keep climbing · HSBC profits jump 32% to $9.6bn, shrugs off UK bank tax fears · Fornebubanen's top-billing consultant works only a 3-day week</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-28.mp3" length="1400064" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 03:29:20 +0000</pubDate>
+      <itunes:duration>175</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday 27 October</title>
       <description>Anthropic's S-1 becomes public, revealing financial details for first time · OpenAI launches GPT-6.1 Terra, a fast model built for computer use · Microsoft expands buyouts to a quarter of its workforce, up from April's offer · Meta firms up $95bn stock offering plan, from June's rumoured raise · Oslo warned a four-day T-bane shutdown in November could delay Fornebubanen</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 03:28:32 +0000</pubDate>
       <itunes:duration>170</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wednesday 14 October</title>
-      <description>Gemini 4 Argon starts rolling out to developers, five weeks after Google unveiled it · OpenAI employee arrested after hiding recording device in conference room · Anthropic built its own alternative to Git as its code change rate surged · Chip stocks slide after Broadcom boss likens AI investors to casino gamblers · Wall Street's big banks post good earnings, but shares still fall</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-14.mp3" length="1368576" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-14</guid>
-      <pubDate>Wed, 14 Oct 2026 03:28:14 +0000</pubDate>
-      <itunes:duration>171</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
