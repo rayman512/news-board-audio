@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 29 Oct 2026 03:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:28:50 +0000</lastBuildDate>
+    <item>
+      <title>Friday 30 October</title>
+      <description>Binance hack hits $6.3bn in crypto; exchange vows to cover all losses · DoorDash agrees to buy Instacart for about $17bn · Alphabet's stock slide deepens to $500bn as AI search ad fears spread · ECB's Christine Lagarde to step down early, last meeting in February · Intel shares plunge 20% after-hours on revenue miss</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-30.mp3" length="1500288" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 03:28:50 +0000</pubDate>
+      <itunes:duration>187</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday 29 October</title>
       <description>UK Budget 2026: Healey raises bank and landlord taxes for £100 energy payouts · Fed holds interest rates steady ahead of US midterm elections · Google launches Gemini 4 Carbon, its newest frontier AI model · Microsoft posts $92.3bn quarterly revenue days after unveiling buyouts · Hacktivists leak data on 41,000 DHS staff, beyond March's contractor leak</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 03:26:00 +0000</pubDate>
       <itunes:duration>163</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Friday 16 October</title>
-      <description>Chip and AI stocks sell off as US inflation, debt fears deepen · Anthropic's quarterly revenue up nearly 50% to $16.8bn ahead of IPO · Meta teams up with Apple to run its open AI model on Mac Studios · FTC's AI-safety probe could fine Anthropic, OpenAI like late breach reports · Online ads used to install 'zero-click' spyware, researchers say</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-16.mp3" length="1350144" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 03:26:12 +0000</pubDate>
-      <itunes:duration>169</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
