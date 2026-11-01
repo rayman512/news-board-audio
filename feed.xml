@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 31 Oct 2026 03:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:29:42 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 1 November</title>
+      <description>German cost-of-living protests turn violent, shops looted in four cities · Flaw let hackers take over ChatGPT accounts, now fixed by OpenAI · Tech billionaires spend $368m fighting California wealth-tax vote · Telenor warns on Starlink risk as SpaceX seeks meeting with Norway · OpenAI to honor website opt-outs from AI training via robots.txt</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-01.mp3" length="1314432" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 03:29:42 +0000</pubDate>
+      <itunes:duration>164</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 31 October</title>
       <description>Anthropic's Claude Code extension was backdoored on Cursor for 12 hours · North Korea blamed for Binance's record $6.3bn crypto heist · US tech stocks hit a two-month low as AI spending nears $1tn · OpenAI, Google, Microsoft and Anthropic back new AI scraping opt-out tool · Google's Suncatcher satellite sends back its first AI response from orbit</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 03:26:52 +0000</pubDate>
       <itunes:duration>153</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 18 October</title>
-      <description>Trump exempts Russia from new US sanctions law days before it took effect · Anthropic gives safety group METR hands-on access to evaluate its AI · Meta drops contested AI-training clause from its commercial terms · Nordic Mining risks bankruptcy as it runs low on cash for its Norway mine · Bank of England's Bailey walks out of IMF meeting as Russia speaks</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-18.mp3" length="1292736" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 03:26:18 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
