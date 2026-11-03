@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 02 Nov 2026 03:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:27:49 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday 3 November</title>
+      <description>Anthropic publicly files for a Nasdaq IPO, after a confidential filing in June · Apple beats forecasts in CEO John Ternus's first earnings report · UK and EU agree draft deal to scrap Brexit red tape on food exports · New York Times sues Brave browser over AI scraping and paywall bypass · Oil price falls over 6% to a two-week low on hopes of an Iran war breakthrough</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-03.mp3" length="1269312" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 03:27:49 +0000</pubDate>
+      <itunes:duration>159</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday 2 November</title>
       <description>Binance covers 90% of losses as investors pull $3.6bn from hacked exchange · Thousands of jobs at Virgin Media O2 to be cut · AI bubble fears deepen as little-known lenders carry datacentre debt · National Grid to build UK's biggest substation for an AI datacentre · Oslo review finds Fornebubanen mis-organised, hit by conflicted consultants</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 03:28:21 +0000</pubDate>
       <itunes:duration>186</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tuesday 20 October</title>
-      <description>Norwegian krone hits its strongest level against the euro in three and a half years · France hit by fresh bond sell-off after violent weekend protests · Aker's Nscale in talks for a second AI data-centre deal with Anthropic worth $45bn · A hacker's AI agents breached John Deere, SharkNinja and Cummins · Court filing ties Saudi government to ex-OpenAI engineer accused of spying</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-20.mp3" length="1356864" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 03:26:36 +0000</pubDate>
-      <itunes:duration>170</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
