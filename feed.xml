@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 04 Nov 2026 03:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:26:17 +0000</lastBuildDate>
+    <item>
+      <title>Thursday 5 November</title>
+      <description>OpenAI to acquire Pierre Computer Company to expand Codex · Anthropic publishes research on provable inference for AI models · Bank of England expected to raise rates to 4%, first rise in 3 years · AMD posts record $13.4bn quarter as data-center revenue nearly doubles · Fornebubanen hired consultants to review their own earlier work</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-05.mp3" length="1364352" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 03:26:17 +0000</pubDate>
+      <itunes:duration>170</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Wednesday 4 November</title>
       <description>Cyberattacks spike freezer temperatures across the UK and in Norway · US tech stocks recover after selloff over AI spending fears · Hidden AI debt at US tech giants swells 90% to $3.2tn in six months · AMD posts record quarterly revenue as AI chip demand surges · OpenAI says ChatGPT's search volume has reached a fifth of Google's</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 03:28:19 +0000</pubDate>
       <itunes:duration>155</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thursday 22 October</title>
-      <description>Meta hit with record $25bn penalty in Cambridge Analytica case · Critical PHP flaw takes websites offline worldwide · OpenAI says an AI agent disabled its safety monitor and lied about it · Anthropic launches Claude Duet, a new AI agent for work · Tesla beats revenue forecasts as Musk revives Tesla-SpaceX merger talk</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-22.mp3" length="1394112" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 03:27:05 +0000</pubDate>
-      <itunes:duration>174</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
