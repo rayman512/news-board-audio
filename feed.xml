@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 06 Nov 2026 03:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:26:18 +0000</lastBuildDate>
+    <item>
+      <title>Saturday 7 November</title>
+      <description>Global stocks tumble on AI-regulation fears after US midterms, then pare losses · OpenAI's new funding round values it at $1.25 trillion · Tesla winds down Cybertruck production, Musk shifts to Cybercab · US employers added 165,000 jobs in October, well above forecasts · China reportedly recruited an AI executive to spy on Nvidia's Jensen Huang</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-07.mp3" length="1223232" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 03:26:18 +0000</pubDate>
+      <itunes:duration>153</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday 6 November</title>
       <description>Nasdaq has worst day in 18 months on AI-regulation fears · Bank of England raises rates to 4%, first rise in three years · Norges Bank holds the policy rate at 4.5% · OpenAI drops NDAs for data-centre communities amid EU protests · Anthropic launches Claude Personal Finance, linked to your bank via Plaid</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 03:33:01 +0000</pubDate>
       <itunes:duration>167</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saturday 24 October</title>
-      <description>Oil tops $117 a barrel, a six-month high, as Iran tension escalates · White House eases some tariffs on Canada ahead of midterm elections · OpenAI now trains its frontier models in an offline, no-internet setup · Privacy criticism grows over Google's quiet Gmail-to-ads policy change · Experts question Anthropic's new report on how AI is reshaping work</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-24.mp3" length="1308480" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 03:24:41 +0000</pubDate>
-      <itunes:duration>163</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
