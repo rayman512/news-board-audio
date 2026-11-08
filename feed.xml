@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 07 Nov 2026 03:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:27:21 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 8 November</title>
+      <description>Outside report finds Anthropic speeding up AI research almost twofold · Berkshire Hathaway profit falls 28% as Abel ramps up buybacks · A Chinese firm cleared for Nvidia's H200 chips has an empty office · Claude Code's 'Don't Ask Again' setting leaked secrets on GitHub · OpenAI pledges to cover power costs at its own data centres</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-08.mp3" length="1307520" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 03:27:21 +0000</pubDate>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 7 November</title>
       <description>Global stocks tumble on AI-regulation fears after US midterms, then pare losses · OpenAI's new funding round values it at $1.25 trillion · Tesla winds down Cybertruck production, Musk shifts to Cybercab · US employers added 165,000 jobs in October, well above forecasts · China reportedly recruited an AI executive to spy on Nvidia's Jensen Huang</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 03:34:33 +0000</pubDate>
       <itunes:duration>180</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 25 October</title>
-      <description>Node.js security flaw found to reach well beyond Node.js · Pennsylvania now requires labels on AI-generated ads · Deepfake ad of Spanish PM's wife sparks election outrage · OpenAI partners with Poland's NASK on AI cyber-security · Harvard physicist Christopher Stubbs joins Anthropic's board trust</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-25.mp3" length="1338624" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 03:33:01 +0000</pubDate>
-      <itunes:duration>167</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
