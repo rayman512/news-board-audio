@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 08 Nov 2026 03:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:27:27 +0000</lastBuildDate>
+    <item>
+      <title>Monday 9 November</title>
+      <description>Nvidia's board opens formal probe into Huang's ties to suspected Chinese spy · Statnett: 2026 power-grid requests already exceed Norway's record peak demand · Elvis and Eminem rights-holders sue Suno over AI voice and lyric mimicry · Jaguar Land Rover has BYD's Dutch offices raided over 'copycat car' claim · Lysaker could get high-rises under newly announced area changes</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-09.mp3" length="1321344" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 03:27:27 +0000</pubDate>
+      <itunes:duration>165</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday 8 November</title>
       <description>Outside report finds Anthropic speeding up AI research almost twofold · Berkshire Hathaway profit falls 28% as Abel ramps up buybacks · A Chinese firm cleared for Nvidia's H200 chips has an empty office · Claude Code's 'Don't Ask Again' setting leaked secrets on GitHub · OpenAI pledges to cover power costs at its own data centres</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 03:32:02 +0000</pubDate>
       <itunes:duration>173</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 26 October</title>
-      <description>Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models · City economists doubt UK interest rates will reach 4.75% by next summer · Fornebubanen: 70 consultants billed more than the PM's salary · UK Budget to add £1bn for social and affordable housing · Volkswagen to build $4bn Audi SUV factory in the US</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-26.mp3" length="1443456" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 03:34:33 +0000</pubDate>
-      <itunes:duration>180</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
