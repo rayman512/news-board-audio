@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 09 Nov 2026 03:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:25:36 +0000</lastBuildDate>
+    <item>
+      <title>Tuesday 10 November</title>
+      <description>Fornebubanen heads for a new overrun of up to 4 billion kroner · Anthropic launches Claude Fable 5.2 and Mythos 5.2 · Trump says FBI is investigating Nvidia boss's affair with alleged Chinese spy · Oil price falls more than $6 a barrel overnight · Google unveils new TPUs built for the agentic era</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-10.mp3" length="1315776" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 03:25:36 +0000</pubDate>
+      <itunes:duration>164</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Monday 9 November</title>
       <description>Nvidia's board opens formal probe into Huang's ties to suspected Chinese spy · Statnett: 2026 power-grid requests already exceed Norway's record peak demand · Elvis and Eminem rights-holders sue Suno over AI voice and lyric mimicry · Jaguar Land Rover has BYD's Dutch offices raided over 'copycat car' claim · Lysaker could get high-rises under newly announced area changes</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-28</guid>
       <pubDate>Wed, 28 Oct 2026 03:29:20 +0000</pubDate>
       <itunes:duration>175</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tuesday 27 October</title>
-      <description>Anthropic's S-1 becomes public, revealing financial details for first time · OpenAI launches GPT-6.1 Terra, a fast model built for computer use · Microsoft expands buyouts to a quarter of its workforce, up from April's offer · Meta firms up $95bn stock offering plan, from June's rumoured raise · Oslo warned a four-day T-bane shutdown in November could delay Fornebubanen</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-27.mp3" length="1384512" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 03:32:02 +0000</pubDate>
-      <itunes:duration>173</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
