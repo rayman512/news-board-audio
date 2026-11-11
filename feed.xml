@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 10 Nov 2026 03:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday 11 November</title>
+      <description>Anthropic launches IPO roadshow, now targets up to $1.4tn, below $2tn hoped · Oslo confirms Fornebubanen a year late after contractor talks collapse · US consumer prices rose 0.4% in October, a touch above forecasts · Norway's consumer prices rose 3.6% in October, pushed up by power costs · Google opens Gemini 4 Carbon to all developers, weeks after limited access</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-11.mp3" length="1373568" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 04:23:32 +0000</pubDate>
+      <itunes:duration>172</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday 10 November</title>
       <description>Fornebubanen heads for a new overrun of up to 4 billion kroner · Anthropic launches Claude Fable 5.2 and Mythos 5.2 · Trump says FBI is investigating Nvidia boss's affair with alleged Chinese spy · Oil price falls more than $6 a barrel overnight · Google unveils new TPUs built for the agentic era</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 03:28:35 +0000</pubDate>
       <itunes:duration>164</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wednesday 28 October</title>
-      <description>DeepMind unveils Genie 4, a real-time AI world model with audio · OpenAI expands Oracle deal to bring business apps into ChatGPT · Boeing shares fall 11% on weak earnings as chip stocks keep climbing · HSBC profits jump 32% to $9.6bn, shrugs off UK bank tax fears · Fornebubanen's top-billing consultant works only a 3-day week</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-28.mp3" length="1400064" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-28</guid>
-      <pubDate>Wed, 28 Oct 2026 03:29:20 +0000</pubDate>
-      <itunes:duration>175</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
