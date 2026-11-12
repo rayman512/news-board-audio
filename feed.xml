@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 11 Nov 2026 04:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:25:08 +0000</lastBuildDate>
+    <item>
+      <title>Thursday 12 November</title>
+      <description>Nvidia board reportedly nears decision to fire CEO Jensen Huang · Norges Bank's new report flags continued risk to financial stability · TSMC to invest $1 billion in Anthropic and OpenAI · Google DeepMind unveils AlphaGenome 2 for reading disease-linked DNA · AI data centres plan huge on-site gas plants to dodge grid delays</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-12.mp3" length="1299264" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 04:25:08 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Wednesday 11 November</title>
       <description>Anthropic launches IPO roadshow, now targets up to $1.4tn, below $2tn hoped · Oslo confirms Fornebubanen a year late after contractor talks collapse · US consumer prices rose 0.4% in October, a touch above forecasts · Norway's consumer prices rose 3.6% in October, pushed up by power costs · Google opens Gemini 4 Carbon to all developers, weeks after limited access</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 03:28:50 +0000</pubDate>
       <itunes:duration>187</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thursday 29 October</title>
-      <description>UK Budget 2026: Healey raises bank and landlord taxes for £100 energy payouts · Fed holds interest rates steady ahead of US midterm elections · Google launches Gemini 4 Carbon, its newest frontier AI model · Microsoft posts $92.3bn quarterly revenue days after unveiling buyouts · Hacktivists leak data on 41,000 DHS staff, beyond March's contractor leak</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-29.mp3" length="1313856" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-29</guid>
-      <pubDate>Thu, 29 Oct 2026 03:28:35 +0000</pubDate>
-      <itunes:duration>164</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
