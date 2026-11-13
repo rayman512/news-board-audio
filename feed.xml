@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 12 Nov 2026 04:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:25:13 +0000</lastBuildDate>
+    <item>
+      <title>Friday 13 November</title>
+      <description>Jensen Huang resigns as Nvidia CEO, Colette Kress named interim · Google launches Gemini 4 Hydrogen, replacing its 3.8 Flash model · Microsoft still fighting to fix global Outlook and Teams outage · UK economy grows at fastest rate in more than two years · Oslo to close most of the metro for four days over Fornebubanen signal system</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-13.mp3" length="1310592" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 04:25:13 +0000</pubDate>
+      <itunes:duration>164</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday 12 November</title>
       <description>Nvidia board reportedly nears decision to fire CEO Jensen Huang · Norges Bank's new report flags continued risk to financial stability · TSMC to invest $1 billion in Anthropic and OpenAI · Google DeepMind unveils AlphaGenome 2 for reading disease-linked DNA · AI data centres plan huge on-site gas plants to dodge grid delays</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-10-31</guid>
       <pubDate>Sat, 31 Oct 2026 03:27:56 +0000</pubDate>
       <itunes:duration>152</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Friday 30 October</title>
-      <description>Binance hack hits $6.3bn in crypto; exchange vows to cover all losses · DoorDash agrees to buy Instacart for about $17bn · Alphabet's stock slide deepens to $500bn as AI search ad fears spread · ECB's Christine Lagarde to step down early, last meeting in February · Intel shares plunge 20% after-hours on revenue miss</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-10-30.mp3" length="1500288" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-10-30</guid>
-      <pubDate>Fri, 30 Oct 2026 03:28:50 +0000</pubDate>
-      <itunes:duration>187</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
