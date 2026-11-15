@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 14 Nov 2026 04:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:25:58 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 15 November</title>
+      <description>SpaceX catches Starship's upper stage for first time, loses booster · Italy fines Meta €805m over access to Android users' photos · Researchers find Lovable AI apps leaking passports, 200,000 chats · Report: Nvidia used financing deals to keep GPU prices high · Google launches Gemini Decisions API for fast AI choices</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-15.mp3" length="1198272" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 04:25:58 +0000</pubDate>
+      <itunes:duration>150</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 14 November</title>
       <description>OpenAI launches ChatGPT Wallet so its AI agents can make purchases · FAA orders third-ever nationwide ground stop over equipment failure · Huang summoned to testify before Congress as Nvidia fallout widens · Microsoft says Outlook and Teams outage is resolved, not a cyberattack · Jaguar Land Rover posts £451m quarterly loss after cutting 4,000 jobs</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 03:28:17 +0000</pubDate>
       <itunes:duration>141</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 1 November</title>
-      <description>German cost-of-living protests turn violent, shops looted in four cities · Flaw let hackers take over ChatGPT accounts, now fixed by OpenAI · Tech billionaires spend $368m fighting California wealth-tax vote · Telenor warns on Starlink risk as SpaceX seeks meeting with Norway · OpenAI to honor website opt-outs from AI training via robots.txt</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-01.mp3" length="1314432" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-01</guid>
-      <pubDate>Sun, 01 Nov 2026 03:29:42 +0000</pubDate>
-      <itunes:duration>164</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
