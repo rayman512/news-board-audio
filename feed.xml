@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 15 Nov 2026 04:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:22:49 +0000</lastBuildDate>
+    <item>
+      <title>Monday 16 November</title>
+      <description>Anthropic's IPO roadshow is under way, listing possible this week · Investors sue Intel after 29% stock plunge · ULA's Vulcan rocket fails during its return-to-flight launch · Megaspeed now says Nvidia-linked suspected spy left the firm in 2025 · Construction freeze hits Fornebu, 7,500 homes still to be built</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-16.mp3" length="1059264" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 04:22:49 +0000</pubDate>
+      <itunes:duration>132</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday 15 November</title>
       <description>SpaceX catches Starship's upper stage for first time, loses booster · Italy fines Meta €805m over access to Android users' photos · Researchers find Lovable AI apps leaking passports, 200,000 chats · Report: Nvidia used financing deals to keep GPU prices high · Google launches Gemini Decisions API for fast AI choices</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 03:27:49 +0000</pubDate>
       <itunes:duration>159</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 2 November</title>
-      <description>Binance covers 90% of losses as investors pull $3.6bn from hacked exchange · Thousands of jobs at Virgin Media O2 to be cut · AI bubble fears deepen as little-known lenders carry datacentre debt · National Grid to build UK's biggest substation for an AI datacentre · Oslo review finds Fornebubanen mis-organised, hit by conflicted consultants</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-02.mp3" length="1126272" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 03:28:17 +0000</pubDate>
-      <itunes:duration>141</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
