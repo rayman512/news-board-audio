@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 19 Nov 2026 04:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 04:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Friday 20 November</title>
+      <description>Anthropic closes first day at $1.3tn value after record $81bn IPO · California opens AI chip export probe into Nvidia after Huang's exit · Apple is hiring engineers to build its own AI agent · Google adds an AI chat sidebar to its homepage · Norwegian confirms 5,000 customers had card details leaked</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-20.mp3" length="1353792" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 04:26:52 +0000</pubDate>
+      <itunes:duration>169</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday 19 November</title>
       <description>Anthropic prices IPO, valuing it at up to $1.5tn ahead of Nasdaq debut · Nvidia halts AI chip sales to China despite White House approval · Google launches Gemini 4 Neon, a cheaper frontier model for coding · UK inflation rises again; typical energy bill to jump £443 a year · Fornebubanen overrun could raise Oslo toll fees, threaten other transit lines</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-07</guid>
       <pubDate>Sat, 07 Nov 2026 03:26:18 +0000</pubDate>
       <itunes:duration>153</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Friday 6 November</title>
-      <description>Nasdaq has worst day in 18 months on AI-regulation fears · Bank of England raises rates to 4%, first rise in three years · Norges Bank holds the policy rate at 4.5% · OpenAI drops NDAs for data-centre communities amid EU protests · Anthropic launches Claude Personal Finance, linked to your bank via Plaid</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-06.mp3" length="1348800" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 03:27:10 +0000</pubDate>
-      <itunes:duration>169</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
