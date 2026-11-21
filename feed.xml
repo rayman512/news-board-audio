@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 20 Nov 2026 04:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:24:17 +0000</lastBuildDate>
+    <item>
+      <title>Saturday 21 November</title>
+      <description>Anthropic mathematician claims to have proved the Riemann Hypothesis with Claude · Nasdaq erases its 2026 gains as Anthropic's stock slides on day two · Trump threatens 'tremendous tax' on US firms building AI data centers abroad · Nvidia shares fall again as SEC reportedly probes its accounting · GTA 6 racks up $3.8bn in sales on its first day, a new record</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-21.mp3" length="1384320" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 04:24:17 +0000</pubDate>
+      <itunes:duration>173</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday 20 November</title>
       <description>Anthropic closes first day at $1.3tn value after record $81bn IPO · California opens AI chip export probe into Nvidia after Huang's exit · Apple is hiring engineers to build its own AI agent · Google adds an AI chat sidebar to its homepage · Norwegian confirms 5,000 customers had card details leaked</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-08</guid>
       <pubDate>Sun, 08 Nov 2026 03:27:21 +0000</pubDate>
       <itunes:duration>163</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saturday 7 November</title>
-      <description>Global stocks tumble on AI-regulation fears after US midterms, then pare losses · OpenAI's new funding round values it at $1.25 trillion · Tesla winds down Cybertruck production, Musk shifts to Cybercab · US employers added 165,000 jobs in October, well above forecasts · China reportedly recruited an AI executive to spy on Nvidia's Jensen Huang</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-07.mp3" length="1223232" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-07</guid>
-      <pubDate>Sat, 07 Nov 2026 03:26:18 +0000</pubDate>
-      <itunes:duration>153</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
