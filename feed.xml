@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sat, 21 Nov 2026 04:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 04:25:47 +0000</lastBuildDate>
+    <item>
+      <title>Sunday 22 November</title>
+      <description>Outside mathematicians verify Anthropic's Claude-assisted Riemann proof · UN talks on banning autonomous weapons collapse amid Russian blocking · Bitcoin falls to its lowest price in over two years · Norway's oil fund chief calls Nvidia's Huang scandal 'piquant' · OpenAI details layered defences against AI model distillation attacks</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-22.mp3" length="1391808" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 04:25:47 +0000</pubDate>
+      <itunes:duration>174</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Saturday 21 November</title>
       <description>Anthropic mathematician claims to have proved the Riemann Hypothesis with Claude · Nasdaq erases its 2026 gains as Anthropic's stock slides on day two · Trump threatens 'tremendous tax' on US firms building AI data centers abroad · Nvidia shares fall again as SEC reportedly probes its accounting · GTA 6 racks up $3.8bn in sales on its first day, a new record</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-09</guid>
       <pubDate>Mon, 09 Nov 2026 03:27:27 +0000</pubDate>
       <itunes:duration>165</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday 8 November</title>
-      <description>Outside report finds Anthropic speeding up AI research almost twofold · Berkshire Hathaway profit falls 28% as Abel ramps up buybacks · A Chinese firm cleared for Nvidia's H200 chips has an empty office · Claude Code's 'Don't Ask Again' setting leaked secrets on GitHub · OpenAI pledges to cover power costs at its own data centres</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-08.mp3" length="1307520" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-08</guid>
-      <pubDate>Sun, 08 Nov 2026 03:27:21 +0000</pubDate>
-      <itunes:duration>163</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
