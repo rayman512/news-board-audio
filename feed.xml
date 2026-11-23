@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Sun, 22 Nov 2026 04:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:27:00 +0000</lastBuildDate>
+    <item>
+      <title>Monday 23 November</title>
+      <description>Lutnick resists resignation calls as Congress presses him on Nvidia's China chip leak · Silicon Valley workers worry the AI boom in San Francisco is overheating · South Korea's education minister resigns after AI exam-cheating scandal · NHO urges Norwegian workers to accept smaller pay rises to allow rate cuts · Centrica boss 'hugely concerned' as UK energy bills set to jump</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-23.mp3" length="1244160" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 04:27:00 +0000</pubDate>
+      <itunes:duration>155</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sunday 22 November</title>
       <description>Outside mathematicians verify Anthropic's Claude-assisted Riemann proof · UN talks on banning autonomous weapons collapse amid Russian blocking · Bitcoin falls to its lowest price in over two years · Norway's oil fund chief calls Nvidia's Huang scandal 'piquant' · OpenAI details layered defences against AI model distillation attacks</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-10</guid>
       <pubDate>Tue, 10 Nov 2026 03:25:36 +0000</pubDate>
       <itunes:duration>164</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Monday 9 November</title>
-      <description>Nvidia's board opens formal probe into Huang's ties to suspected Chinese spy · Statnett: 2026 power-grid requests already exceed Norway's record peak demand · Elvis and Eminem rights-holders sue Suno over AI voice and lyric mimicry · Jaguar Land Rover has BYD's Dutch offices raided over 'copycat car' claim · Lysaker could get high-rises under newly announced area changes</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-09.mp3" length="1321344" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-09</guid>
-      <pubDate>Mon, 09 Nov 2026 03:27:27 +0000</pubDate>
-      <itunes:duration>165</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
