@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 24 Nov 2026 04:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:26:02 +0000</lastBuildDate>
+    <item>
+      <title>Wednesday 25 November</title>
+      <description>US readies new tariffs that would hit China and the EU · US attorney general dodges questions on Nvidia probe as shares fall 7% · Transport minister refuses more funding as Fornebubanen nears 35bn kroner · OpenAI says GPT-6 models can design proteins directly · Huawei found guilty of stealing trade secrets, cleared of racketeering</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-25.mp3" length="1307328" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 04:26:02 +0000</pubDate>
+      <itunes:duration>163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday 24 November</title>
       <description>Nvidia reinstates Jensen Huang as CEO after Trump intervenes · Capita boss quits as shares crash 70% over pension failures · Oslo politicians demand a hearing over Fornebubanen's budget blowout · Anthropic launches Claude Ship to fix and merge its own pull requests · US to blacklist Megaspeed, Nvidia's top Asia buyer, over chip smuggling</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-12</guid>
       <pubDate>Thu, 12 Nov 2026 04:25:08 +0000</pubDate>
       <itunes:duration>162</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Wednesday 11 November</title>
-      <description>Anthropic launches IPO roadshow, now targets up to $1.4tn, below $2tn hoped · Oslo confirms Fornebubanen a year late after contractor talks collapse · US consumer prices rose 0.4% in October, a touch above forecasts · Norway's consumer prices rose 3.6% in October, pushed up by power costs · Google opens Gemini 4 Carbon to all developers, weeks after limited access</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-11.mp3" length="1373568" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 04:23:32 +0000</pubDate>
-      <itunes:duration>172</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
