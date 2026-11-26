@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 25 Nov 2026 04:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:27:16 +0000</lastBuildDate>
+    <item>
+      <title>Thursday 26 November</title>
+      <description>Claude-built Lean proof claims to solve the Riemann Hypothesis and GRH · FCC clears SpaceX to launch up to a million AI satellites · Nvidia shares fall again as S&amp;P puts its rating on downgrade watch · Poundland collapses into administration, 11,000 jobs at risk · New York Times tells photographers not to update to the new Photoshop</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-26.mp3" length="1415808" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 04:27:16 +0000</pubDate>
+      <itunes:duration>177</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Wednesday 25 November</title>
       <description>US readies new tariffs that would hit China and the EU · US attorney general dodges questions on Nvidia probe as shares fall 7% · Transport minister refuses more funding as Fornebubanen nears 35bn kroner · OpenAI says GPT-6 models can design proteins directly · Huawei found guilty of stealing trade secrets, cleared of racketeering</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-13</guid>
       <pubDate>Fri, 13 Nov 2026 04:25:13 +0000</pubDate>
       <itunes:duration>164</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Thursday 12 November</title>
-      <description>Nvidia board reportedly nears decision to fire CEO Jensen Huang · Norges Bank's new report flags continued risk to financial stability · TSMC to invest $1 billion in Anthropic and OpenAI · Google DeepMind unveils AlphaGenome 2 for reading disease-linked DNA · AI data centres plan huge on-site gas plants to dodge grid delays</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-12.mp3" length="1299264" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 04:25:08 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
