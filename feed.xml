@@ -11,7 +11,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 27 Nov 2026 04:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:25:58 +0000</lastBuildDate>
+    <item>
+      <title>Saturday 28 November</title>
+      <description>Norse Atlantic Airways collapses into bankruptcy, cancels all flights · Nasdaq rises as Anthropic's stock jumps sharply · UK energy bills set to jump 26% in January after Iran war gas surge · Bank of England governor warns banks may pass £1.5bn tax rise to customers · Norway's mortgage rates on new home loans rose in October</description>
+      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-28.mp3" length="1168512" type="audio/mpeg"/>
+      <guid isPermaLink="false">newsboard-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 04:25:58 +0000</pubDate>
+      <itunes:duration>146</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Friday 27 November</title>
       <description>Fornebubanen boss misled NRK viewers about her own salary · Norse Atlantic risks collapse without emergency funding · Spain's Hernández de Cos chosen as next ECB president · Norway's mainland economy grew just 0.1% last quarter · US states push back on Character.AI selling user chat data</description>
@@ -127,15 +136,6 @@
       <guid isPermaLink="false">newsboard-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 04:25:58 +0000</pubDate>
       <itunes:duration>150</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saturday 14 November</title>
-      <description>OpenAI launches ChatGPT Wallet so its AI agents can make purchases · FAA orders third-ever nationwide ground stop over equipment failure · Huang summoned to testify before Congress as Nvidia fallout widens · Microsoft says Outlook and Teams outage is resolved, not a cyberattack · Jaguar Land Rover posts £451m quarterly loss after cutting 4,000 jobs</description>
-      <enclosure url="https://rayman512.github.io/news-board-audio/episodes/2026-11-14.mp3" length="1296960" type="audio/mpeg"/>
-      <guid isPermaLink="false">newsboard-2026-11-14</guid>
-      <pubDate>Sat, 14 Nov 2026 04:26:18 +0000</pubDate>
-      <itunes:duration>162</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
